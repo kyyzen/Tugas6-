@@ -1,1 +1,2 @@
-# Tugas6-
+# Tugas6
+![Alt text](Results.jpg)
